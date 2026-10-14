@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wl,--gc-sections -Wl,--dependency-file=CMakeFiles/MyPass001.dir/link.d -shared  -o MyPass001.so CMakeFiles/MyPass001.dir/my_pass_001.cpp.o   -L/home/cflux/Documents/llvm-project/build/./lib  -Wl,-rpath,"\$ORIGIN/../lib:/home/cflux/Documents/llvm-project/build/./lib:"
